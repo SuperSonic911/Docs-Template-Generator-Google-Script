@@ -10,5 +10,5 @@ This Google Script Web App is a template generator for creating custom templates
 - Automatically generate new documents based on the template 
 - Save time by reusing the same template for multiple documents 
 - Easily share templates with other users 
-- Access templates from any device with an internet connec
+- Access templates from any device with an internet connection
 
